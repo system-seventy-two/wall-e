@@ -1,0 +1,9 @@
+Privacy Policy — wall-e (systemseventytwo)
+Last updated: June 2026
+
+wall-e is a personal, non-commercial application used by its sole owner to display their own Pinterest content on a private screen.
+
+Data accessed: Only the owner's own Pinterest boards and pins, read-only, via the official Pinterest API, with the owner's explicit authorization.
+Data use: Pin images are fetched and shown on the owner's private display. Nothing is posted, changed, or deleted on Pinterest.
+Storage & sharing: No personal data is collected from any other user. An OAuth token is stored locally on the owner's own device to keep the connection active; it is never shared with anyone or any third party.
+Third parties: None. No analytics, no advertising, no data resale.
